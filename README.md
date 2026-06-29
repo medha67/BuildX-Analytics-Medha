@@ -30,7 +30,7 @@ fixed text formatting, corrected data types, removed duplicates, saved clean CSV
 GROUP BY, ORDER BY, HAVING, LIKE, and an advanced CASE statement.
 
 **Power BI:** Built an interactive dashboard with 6+ visuals across 2 pages,
-a DAX calculated column (Rating_Label), a DAX measure (High Rated Restaurants),
+a DAX calculated column (Rating_Category), a DAX measure (High Rated Restaurants),
 a slicer, a page-level filter, and a Key Insights section.
 
 ## Project built as part of BuildX Bootcamp — IEEE Computer Society Student Chapter
