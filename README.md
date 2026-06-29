@@ -1,5 +1,5 @@
 # BuildX-Analytics-Medha
-# BuildX Analytics Project — [Your Name]
+# BuildX Analytics Project — Medha
 
 ## Dataset
 **Theme:** Food and Lifestyle
